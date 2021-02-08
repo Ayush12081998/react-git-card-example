@@ -1,0 +1,11 @@
+.profile{
+    margin: 1rem;
+}
+.info{
+    display: inline-block;
+}
+.photo{
+    width: 75px;
+    height: 75px;
+    /* background-color: black; */
+}
